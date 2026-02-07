@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE FOR TRAVEL_RAMS'
+define service ZSRV_TRAVEL_RAMS {
+  expose ZC_TRAVEL_RAMS;
+}
